@@ -28,25 +28,36 @@ Footer with informational links similar to Amazon.
 📂 Folder Structure
 
 amazon-clone/
+
 ├── index.html
+
 ├── style.css
+
 ├── images/
+
 │   ├── amazon_logo.png
+
 │   ├── clothing.png
+
 │   ├── Health&personal care.jpg
+
 │   ├── Beauty.jpg
+
 │   ├── gadgets.jpg
+
 │   ├── Gaming.jpg
+
 │   ├── Home Decor.jpg
+
 │   ├── home-appliances.jpg
+
 │   └── fashion_trends.jpg
+
 └── README.md
 
 ⚙️ How to Run the Project
 
-Clone the repository:
 
-git clone https://github.com/your-username/amazon-clone.git
 
 Navigate to the project folder:
 
