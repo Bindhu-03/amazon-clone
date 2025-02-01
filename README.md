@@ -55,15 +55,6 @@ amazon-clone/
 
 └── README.md
 
-⚙️ How to Run the Project
-
-
-
-Navigate to the project folder:
-
-cd amazon-clone
-
-Open index.html in any web browser.
 
 💡 Future Enhancements
 
@@ -73,9 +64,6 @@ Improve responsiveness for all devices using media queries.
 
 Add user authentication and product pages for a more realistic experience.
 
-🤝 Contributing
-
-Contributions are welcome! Feel free to fork the repository, make changes, and submit pull requests.
 
 📄 License
 
