@@ -29,7 +29,8 @@ Footer with informational links similar to Amazon.
 
 amazon-clone/
 
-├── index.html/
+├── index.html
+
 ├── style.css
 
 ├── images/
